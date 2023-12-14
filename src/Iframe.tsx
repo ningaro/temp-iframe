@@ -35,7 +35,7 @@ export function Iframe() {
     <div
       id="container"
       style={{
-        height: "40vh",
+        height: "80vh",
         width: "80vw",
       }}
     />
